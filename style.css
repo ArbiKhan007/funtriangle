@@ -48,7 +48,7 @@ input[type="submit"] {
   font-family: "Shippori Antique";
   display: flex;
   flex-direction: column;
-  padding: 0 80px;
+  padding: 0 50px;
 }
 
 .heading {
